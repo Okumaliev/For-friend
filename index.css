@@ -1,0 +1,7 @@
+.test-link:hover {
+    transition: 2s;
+    color: red !important;
+    border: 2px solid red;
+    border-radius: 40px;
+    
+} 
